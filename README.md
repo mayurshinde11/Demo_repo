@@ -1,2 +1,2 @@
 # Demo_repo
-This repo consists of Demo leaerning of Gethub
+This repo consists of Demo learning of Github
